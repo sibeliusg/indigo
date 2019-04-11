@@ -15,9 +15,7 @@ description: Markdown summary with different options
 
 ## Summary:
 
-You can pick as item to see how to apply in markdown.
-
-#### Especial Elements
+Blubber
 - [Evidence](#evidence)
 - [Side-by-Side](#side-by-side)
 - [Star](#star)
